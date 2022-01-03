@@ -1,2 +1,3 @@
 # irit-git-myRepository
-new repository
+change name
+
